@@ -1,21 +1,13 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: Politecnico di Milano
+-- Engineer: Xuwen Ye
 -- 
 -- Create Date: 11/22/2023 02:01:27 PM
--- Design Name: 
+--
+-- Design Name: RTL project 2023
 -- Module Name: project_reti_logiche - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
+-- Project Name: RTL project 2023
+--
 ----------------------------------------------------------------------------------
 
 library ieee;
